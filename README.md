@@ -15,6 +15,7 @@ Sou estudante de Sistemas para Internet na UTFPR e atuo como desenvolvedor web f
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40)]()
 
+<img src="https://raw.githubusercontent.com/leonardogrcia/leonardogrcia/output/snake.svg" alt="Snake animation" />
 
 ### Sobre mim
 
